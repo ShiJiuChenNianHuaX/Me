@@ -14,8 +14,8 @@ Completed 2-year Diploma in Electronic Information Engineering (2014–2017) and
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation
-- **Machine Learning:** Supervised Learning Unsupervised Learning Reinforcement Learning
+- **Computer Vision:** Image Recognition, Image Generation
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Reinforcement Learning
 
 ## News
 
