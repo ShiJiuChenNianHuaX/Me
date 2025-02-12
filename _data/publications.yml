@@ -1,22 +1,31 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Tableau
+    (1) World Travel:
+        Including international tourism trends, transportation cost analysis, 
+        number of tourists, whether overseas travel is cost-effective, the most popular countries, 
+        country popularity rankings, per capita outbound travel expenditure, etc.
+    (2) Excellent film production process:
+        Including market share, box office trends, box office standards, 
+        balance of payments, film types, film plots, directors, actors, film duration, etc.
+    (3) Analysis of investment strategies of top 100 venture capital companies:
+        Including return rate & investment amount, city, establishment time, investment time, 
+        investment industry, investment round, investment project, institution name, etc.
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: MachineLearning
+    (1) Sklearn's red wine and iris datasets
+    (2) kaggle Titanic dataset, breast cancer dataset, telecom customer churn dataset
+    (3) SLG mobile game krypton gold prediction analysis
+    (4) E-commerce anomaly detection with integrated algorithm fusion model
+    (5) NLP- news text classification (TF-IDF)
+
+  - title: DeepLearning
+    (1) Tensorflow 1.4 Convolutional Neural Network (CNN) to implement MINST handwritten digit recognition and classification
+    (2) Tensorflow1.4 Recurrent Neural Network (RNN) and Long Short-Term Memory Network (LSTM) 
+        Generate a song and output it in MP3 file format 
+    (3) Tensorflow1.4 Deep Convolutional Generative Adversarial Network (DCGAN) creates a flower painting
+    (4) NLP-News text classification (Fast Text, Word2Vec, CNN, RNN)
+    (5) Street scene symbol recognition
+    
+
+
