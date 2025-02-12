@@ -1,36 +1,36 @@
 main:
   - title: Tableau
-    items:
-      - description: |
-          (1) World Travel
-          Including international tourism trends, transportation cost analysis, 
-          number of tourists, whether overseas travel is cost-effective, the most popular countries, 
-          country popularity rankings, per capita outbound travel expenditure, etc.
-      - description: |
-          (2) Excellent film production process
-          Including market share, box office trends, box office standards, 
-          balance of payments, film types, film plots, directors, actors, film duration, etc.
-      - description: |
-          (3) Analysis of investment strategies of top 100 venture capital companies
-          Including return rate & investment amount, city, establishment time, investment time, 
-          investment industry, investment round, investment project, institution name, etc.
+    entries:
+      - |
+        (1) World Travel
+        Including international tourism trends, transportation cost analysis, 
+        number of tourists, whether overseas travel is cost-effective, the most popular countries, 
+        country popularity rankings, per capita outbound travel expenditure, etc.
+      - |
+        (2) Excellent film production process
+        Including market share, box office trends, box office standards, 
+        balance of payments, film types, film plots, directors, actors, film duration, etc.
+      - |
+        (3) Analysis of investment strategies of top 100 venture capital companies
+        Including return rate & investment amount, city, establishment time, investment time, 
+        investment industry, investment round, investment project, institution name, etc.
 
   - title: MachineLearning
-    items:
-      - description: (1) Sklearn's red wine and iris datasets
-      - description: (2) kaggle Titanic dataset, breast cancer dataset, telecom customer churn dataset
-      - description: (3) SLG mobile game krypton gold prediction analysis
-      - description: (4) E-commerce anomaly detection with integrated algorithm fusion model
-      - description: (5) NLP-news text classification (TF-IDF)
+    entries:
+      - (1) Sklearn's red wine and iris datasets
+      - (2) kaggle Titanic dataset, breast cancer dataset, telecom customer churn dataset
+      - (3) SLG mobile game krypton gold prediction analysis
+      - (4) E-commerce anomaly detection with integrated algorithm fusion model
+      - (5) NLP-news text classification (TF-IDF)
 
   - title: DeepLearning
-    items:
-      - description: |
-          (1) Tensorflow 1.4 Convolutional Neural Network (CNN) to implement MINST handwritten digit recognition and classification
-      - description: |
-          (2) Tensorflow1.4 Recurrent Neural Network (RNN) and Long Short-Term Memory Network (LSTM) 
-          Generate a song and output it in MP3 file format 
-      - description: |
-          (3) Tensorflow1.4 Deep Convolutional Generative Adversarial Network (DCGAN) creates a flower painting
-      - description: (4) NLP-News text classification (Fast Text, Word2Vec, CNN, RNN)
-      - description: (5) Street scene symbol recognition
+    entries:
+      - |
+        (1) Tensorflow 1.4 Convolutional Neural Network (CNN) to implement MINST handwritten digit recognition and classification
+      - |
+        (2) Tensorflow1.4 Recurrent Neural Network (RNN) and Long Short-Term Memory Network (LSTM) 
+        Generate a song and output it in MP3 file format 
+      - |
+        (3) Tensorflow1.4 Deep Convolutional Generative Adversarial Network (DCGAN) creates a flower painting
+      - (4) NLP-News text classification (Fast Text, Word2Vec, CNN, RNN)
+      - (5) Street scene symbol recognition
