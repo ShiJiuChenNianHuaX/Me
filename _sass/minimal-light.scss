@@ -595,3 +595,63 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* 在现有CSS中添加以下内容 */
+
+/* ===== 主内容区定位修正 ===== */
+section {
+  margin-left: 260px;
+  padding: 2em 4%;
+  max-width: 800px;
+  overflow: hidden;
+  position: relative;
+  z-index: 2; /* 提高层级 */
+}
+
+/* ===== 分类区块样式 ===== */
+.category-block {
+  margin-bottom: 3rem;
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  .category-block {
+    background: #2a2b35;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+}
+
+/* ===== 项目条目间距 ===== */
+.bibliography li {
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+/* ===== 移动端优化 ===== */
+@media screen and (max-width: 960px) {
+  section {
+    margin-left: 0;
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+  }
+
+  .category-block {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .project-title {
+    font-size: 1.1rem;
+  }
+  
+  .project-details li {
+    font-size: 0.95rem;
+  }
+}
