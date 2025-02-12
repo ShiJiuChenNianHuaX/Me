@@ -2,21 +2,26 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am a Ph.D. student at ...
+I am a Sep 2014 – Jun 2019
+
+Bachelor of Science in Computer Science (Upgraded from Diploma)
+
+Fuzhou University Zhicheng College, Fuzhou, China
+
+Completed 2-year Diploma in Electronic Information Engineering (2014–2017) and 3-year Bachelor’s program (2017–2019)
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, image generation
+- **Machine Learning:** Supervised Learning Unsupervised Learning Reinforcement Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2017]** Tableau
+- **[Jan. 2018]** MachineLearning
+- **[Sep. 2018]** MachineLearning & DeepLearning
 
 {% include_relative _includes/publications.md %}
 
